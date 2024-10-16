@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">- 🌱 **Atualmente aprendendo**: Cloud, Data Analyst e Big Data<br>- 💡 **Interesses**: Business Intelligence (BI), tratamento e manipulação de dados.<br>- ⚙️ **Habilidades**:<br>  - Linguagens: Python, HTML, CSS, JavaScript<br>  - Frameworks: Angular CLI<br>  - Banco de Dados: SQL Server<br>  - Ferramentas: GitHub, Docker, PowerBI, IA, Figma</p>
+<p align="left">- 🌱 Atualmente aprendendo: Cloud, Data Analyst e Big Data<br>- 💡 Interesses: Business Intelligence (BI), tratamento e manipulação de dados.<br>- ⚙️ Habilidades:<br>  - Linguagens: Python, HTML, CSS, JavaScript<br>  - Frameworks: Angular CLI<br>  - Banco de Dados: SQL Server<br>  - Ferramentas: GitHub, Docker, PowerBI, IA, Figma</p>
 
 ###
 
