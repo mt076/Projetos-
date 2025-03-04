@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">- 🌱 **Atualmente aprendendo**:  Data Analyst, Big Data e BI.<br>- 💡 **Interesses**: Business Intelligence (BI), ETL (Extração, Tratamento e Limpeza), DDL (Define a estrutura do banco de dados) e   DML (Manipulação dos Dados)<br>- ⚙️ **Habilidades**:<br>  - Linguagens: Python e SQL<br>  - IDE: SQL Oracle Developer e VScode<br>  - Ferramentas: GitHub,  PowerBI, IA, Figma</p>
+<p align="left">- 🌱 Atualmente estudando (de forma extra-curricular):  Dados com Python.<br>- 💡 Interesses: Business Intelligence (BI),Vizualização de dados, ETL (Extração, Tratamento e Limpeza), DDL (Define a estrutura do banco de dados) e   DML (Manipulação dos Dados)<br>-Linguagens: Python e SQL<br>  - IDE: SQL Oracle Developer e VScode<br>  - Ferramentas: GitHub,  PowerBI, IA, Figma</p>
 
 ###
 
