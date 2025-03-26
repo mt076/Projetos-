@@ -95,5 +95,8 @@ git reabse --continue = Continua com processo de rebasing após a resolução de
 git rebase --abort = Interropmpe o processo de rebasing e volta ao estado anterior ao processo
 
 
+
+:q!  # (Digite isso no Vim) - Sai descartando todas as alterações
+
 git config --global credential.helper store = Atualizar a credencial
 git fetch  # Vai pedir usuário/senha do GitHub  = Atualizar a credencial
