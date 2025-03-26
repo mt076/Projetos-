@@ -1,0 +1,95 @@
+###################  Comandos GIT  ###################
+
+clear = Limpa a tela da linha de comando
+
+pwd = Exibe o caminho do diretório de trabalho atual
+
+ls = Lista os arquivos e diretórios visíveis 
+
+ls -a = Lista os arquivos e diretórios ocultos e visíveis
+
+cd <caminho_diretório> = Muda de diretório
+
+mkdir <nome diretório> = Cria um diretório
+
+git config --global --list = Lista as variáveis do arquivo de configuração Global e do Git
+
+git config --global user.name <nome> = Define seu nome no arquivo de configuração global do Git
+
+git config --global user.email <email> = Define seu email no arquivo de configuração Global do Git
+
+git init = Inicializa um repositório Git
+
+git init -b <nome branch> = Inicializa um repositório Git e configura o nome do branch incial com <nome_branch>
+
+git status = Exibe o estado do diretório de trablho e da área de preparação
+
+git add <nome_arquivo> = Adiciona um arquivo à área de preparação
+
+git add <nome arquivo> <nome arquivo> = Adiciona vários arquivos à área de preparação
+
+git add -A = Adiciona à área de preparação todos os arquivos do diretório de trabalho que foram editados ou alterados
+
+git commit -m "mensagem" = Cria um novo commit com uma mensagem
+
+git log = Exibe uma mensagem de commits na ordem cronológica inversa
+
+git branch = Lista os branches locais
+
+git branch <nome_novo_branch> = Cria uma branch
+
+git switch <nome_branch> = Muda de branch
+
+git checkout <nome_branch> = Muda de branch
+
+git merge <nome_branch> = Integra alterações de um branch em outro branch
+
+git log --all = Exibe uma lista de commits na ordem cronológica inversa para todos os branchs de um repositório local
+
+git checkout <hash_commit> = faz checkout de um commit
+
+git switch -c <nome_novo_branch> = Cria um novo branch e muda para ele
+
+git checkout -b <nome_novo_branch> = Cria um novo branch e muda para ele
+
+git push = Faz upload de dados para um reposit[orio remoto
+
+git remote add <nome_remoto> <URL> = Adiciona uma conexão com um repositório remoto chamado <nome_remoto> em <URL>
+
+git remote = Lista pelo <nome_remoto> as conexões com repositórios remotos armazenadas no repositório local
+
+git remote -v = Lista conexões com repositórios remotos existentes no repositório local come <nome_remoto> e <URL>
+
+git push <nome_remoto> <nome_branch> = Faz upload de conteúdo de <nome_branch> para o repositório remoto <nome_remoto>
+
+git branch --all = Lista os branchs locais e os branchs de rastreamento remoto
+
+git clone <URL> <nome_diretorio> = Clona um repositório remoto
+
+git push <nome_remoto> -d <nome_branch> = Exclui um branch remoto e o branch de rastreamento remoto associado
+
+git branch -d <nome_branch> = Exclui um branch local
+
+git branch -vv = Lista os branchs locais e seus branchs upstream, se houver algum
+
+git fetch <nome_remoto> = Baixa dados do reposit[orio remoto com <nome_remoto>
+
+git fetch = Baixa dados do repositório remoto com <nome_remoto> origin
+
+git fetch -p = Remove os branches de rastreamento remoto correspondentes aos branches remotos excluídos  e baixa dados do repositório remoto
+
+git branch -u <nome_remoto>/<nome_branch> = Define uma branch upstream para o branch local atual
+
+git pull <nome_remoto <nome_branch> = Faz o fetch de alterações do repositório remoto <nome_branch> e as integra ao <nome_branch> especificado
+
+git pull = Se um branch upstream tiver sido definido para o branch atual, faz o fetch das alterações do branch upstream e as integra
+
+git merge --abort = Interrompe o processo de merging e retorna ao estado anterior ao processo
+
+git rebase <nome_branch> = Reaplica commits a outro branch = 
+
+git restore --staged <nome arquivo> = Restaura um arquivo com outra versão na área de preparação
+
+git reabse --continue = Continua com processo de rebasing após a resolução de conflitos de merge 
+
+git rebase --abort = Interropmpe o processo de rebasing e volta ao estado anterior ao processo
