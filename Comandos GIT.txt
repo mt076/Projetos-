@@ -93,3 +93,7 @@ git restore --staged <nome arquivo> = Restaura um arquivo com outra versão na �
 git reabse --continue = Continua com processo de rebasing após a resolução de conflitos de merge 
 
 git rebase --abort = Interropmpe o processo de rebasing e volta ao estado anterior ao processo
+
+
+git config --global credential.helper store = Atualizar a credencial
+git fetch  # Vai pedir usuário/senha do GitHub  = Atualizar a credencial
