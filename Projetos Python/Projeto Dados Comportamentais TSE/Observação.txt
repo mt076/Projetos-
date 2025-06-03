@@ -1,0 +1,12 @@
+* Publico feminino é maioria no comparecimento nas eleições, tanto no RJ quanto no Brasil.
+
+* Pessoas com Ensino Médio Completo/Ensino Médio Incompleto contabilizaram mais de três vezes mais que Superior Completo
+
+* Faixa de idades entre 35 até 44 anos é grande maioria no Rio e no Brasil.
+
+* Observando o gráfico de correlação, é visto que Ensino Médio Completo e Superior Completo é esmagadoramente maior no publico feminino, tanto no Rio de Janeiro como no Brasil.
+
+* A grande maioria dos eleitores são Solteiros, tanto feminino quanto masculino, seguido de publico casado.
+
+* São Paulo e Rio de Janeiro estão muito acima da média de comparecimento nas eleições.
+
