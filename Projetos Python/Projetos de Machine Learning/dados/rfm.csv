@@ -1,0 +1,9 @@
+,Recenty,Frequency,Monetary,Monetary,Marketing Action
+,mean,mean,mean,count,unique
+Segmento de Cliente,,,,,
+Clientes Leais,305.2,2.4,356.9,6141,['Oferecer programas de fidelidade e venda cruzada (Cross-Sell)']
+Clientes Leais Que Compram com Frequência,146.1,1.9,619.3,14249,['Oferecer itens mais caros (Upsell)']
+Clientes Perdidos,281.9,1.0,44.2,5638,['Não gaste muito tentando readquirir esse cliente']
+Clientes Quase Perdidos,457.3,1.0,64.2,11595,['Oferecer Incentivos de preços agressivos']
+Clientes Que Precisam de Atenção,368.5,1.0,114.9,11043,['Incentivos de preço e oferta por tempo limitado']
+Potenciais Clientes Leais,176.6,1.0,151.5,45421,['Recomendações de venda cruzada e cupons de desconto']
