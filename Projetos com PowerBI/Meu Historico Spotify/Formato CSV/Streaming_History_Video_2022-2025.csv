@@ -1,0 +1,227 @@
+ts,platform,ms_played,conn_country,ip_addr,master_metadata_track_name,master_metadata_album_artist_name,master_metadata_album_album_name,spotify_track_uri,episode_name,episode_show_name,spotify_episode_uri,audiobook_title,audiobook_uri,audiobook_chapter_uri,audiobook_chapter_title,reason_start,reason_end,shuffle,skipped,offline,offline_timestamp,incognito_mode
+2022-10-25T09:34:05Z,android,15597,BR,189.60.204.6,,,,,Os Sócios 100 - Respondendo Perguntas,Os Sócios Podcast,spotify:episode:4Cjywj4YlpwAsY1reUNqlW,,,,,clickrow,endplay,False,True,,,False
+2022-10-25T09:35:26Z,android,68122,BR,189.60.204.6,,,,,O BRASIL REALMENTE SE TORNOU UM PORTO SEGURO PARA INVESTIR? | Os Economistas 34,Os Economistas Podcast ,spotify:episode:5L9NbZqNByzZdnOqny5dbG,,,,,clickrow,endplay,False,True,,,False
+2022-11-25T10:41:55Z,android,1611730,BR,179.242.48.125,,,,,Os Sócios 107 - O Segredo para Viver de Dividendos,Os Sócios Podcast,spotify:episode:79LQmFBHffHYYGtTDGjEIf,,,,,clickrow,endplay,False,True,,,False
+2022-11-30T17:20:07Z,android,4389,BR,189.60.204.6,Pretend My Pain Away,Citizen Soldier,Pretend My Pain Away,spotify:track:2FOexjwJD8aj7rx59eWebZ,,,,,,,,unknown,endplay,False,True,,,False
+2022-11-30T17:20:13Z,android,970,BR,189.60.204.6,Killing Time,Papa Roach,Ego Trip,spotify:track:3UXbL3M5YDaHW5D9juPIOc,,,,,,,,unknown,endplay,False,True,,,False
+2022-11-30T17:22:37Z,android,10860,BR,189.60.204.6,Sinner,Of Virtue,Sinner,spotify:track:2Pf0u0mhGSxayM79Vy4LoT,,,,,,,,unknown,endplay,False,True,,,False
+2022-11-30T17:22:41Z,android,2091,BR,189.60.204.6,Separate Ways,Eva Under Fire,Blow EP,spotify:track:62eNYg3cHHfr1ThVxe2vaM,,,,,,,,unknown,endplay,False,True,,,False
+2022-11-30T17:22:45Z,android,4198,BR,189.60.204.6,Esconde O Celular,John Amplificado,Esconde O Celular,spotify:track:5d5TTXevwqr1oOMZnA1v6K,,,,,,,,unknown,endplay,False,True,,,False
+2022-11-30T17:22:47Z,android,3081,BR,189.60.204.6,Ô Lá na Roça - Ao Vivo,Felipe & Murillo,Ô Lá na Roça,spotify:track:71VNsncPcTfQiklVO9uXfB,,,,,,,,unknown,endplay,False,True,,,False
+2022-11-30T17:22:51Z,android,2391,BR,189.60.204.6,Disconnected,ALESTI,Disconnected,spotify:track:4n8GRRVnxw6mjMWjKZ9eqR,,,,,,,,unknown,endplay,False,True,,,False
+2022-11-30T17:22:56Z,android,0,BR,189.60.204.6,Boca Ocupada,Cleber & Cauan,Cleber & Cauan No Rio Quente,spotify:track:36mUWhjTM3GNpncYy7RR6z,,,,,,,,unknown,endplay,False,True,,,False
+2022-11-30T17:23:03Z,android,0,BR,189.60.204.6,Disconnected,ALESTI,Disconnected,spotify:track:4n8GRRVnxw6mjMWjKZ9eqR,,,,,,,,unknown,endplay,False,True,,,False
+2022-11-30T17:23:03Z,android,0,BR,189.60.204.6,Larga AÍ Pra Ver - Ao Vivo,Léo & Raphael,"Mar de Chapéu, Vol.1 (Ao Vivo)",spotify:track:7kzFnjDEbftVgf7HL6xf9j,,,,,,,,unknown,endplay,False,True,,,False
+2022-11-30T17:23:03Z,android,10000,BR,189.60.204.6,All Gods Fall Down (Zardonic Remix),Mechanical Vein,All Gods Fall Down (Zardonic Remix),spotify:track:2TfrlMNgveiqXmhA2gCfCD,,,,,,,,unknown,endplay,False,True,,,False
+2022-11-30T17:23:03Z,android,5343,BR,189.60.204.6,House Of The Fallen Suns,MORIS BLAK,House Of The Fallen Suns,spotify:track:066S1yW3zWJCZrv1BEEHEQ,,,,,,,,unknown,endplay,False,True,,,False
+2022-11-30T17:23:17Z,android,0,BR,189.60.204.6,House Of The Fallen Suns,MORIS BLAK,House Of The Fallen Suns,spotify:track:066S1yW3zWJCZrv1BEEHEQ,,,,,,,,unknown,endplay,False,True,,,False
+2022-11-30T17:23:17Z,android,0,BR,189.60.204.6,Larga AÍ Pra Ver - Ao Vivo,Léo & Raphael,"Mar de Chapéu, Vol.1 (Ao Vivo)",spotify:track:7kzFnjDEbftVgf7HL6xf9j,,,,,,,,unknown,endplay,False,True,,,False
+2022-11-30T17:23:17Z,android,0,BR,189.60.204.6,Disconnected,ALESTI,Disconnected,spotify:track:4n8GRRVnxw6mjMWjKZ9eqR,,,,,,,,unknown,endplay,False,True,,,False
+2022-11-30T17:23:17Z,android,381,BR,189.60.204.6,All Gods Fall Down (Zardonic Remix),Mechanical Vein,All Gods Fall Down (Zardonic Remix),spotify:track:2TfrlMNgveiqXmhA2gCfCD,,,,,,,,unknown,endplay,False,True,,,False
+2023-07-09T15:02:18Z,android,4609,BR,179.210.185.39,Bem Mais Perto do Céu,Raphael Ota,Bem Mais Perto do Céu,spotify:track:58HEh6Eyq01mPoiV84NhVC,,,,,,,,unknown,endplay,False,True,,,False
+2023-07-09T15:02:18Z,android,0,BR,179.210.185.39,O Que Estou Fazendo Agora,Raphael Ota,O Que Estou Fazendo Agora,spotify:track:4fhHfIPTwwbSJfuvsBSAjU,,,,,,,,unknown,endplay,False,True,,,False
+2023-07-09T15:02:18Z,android,1728,BR,179.210.185.39,Just the Beginning,Hangar,The Reason of Your Conviction,spotify:track:4ALYe1bwVGhwWr9D1wXEYm,,,,,,,,unknown,unknown,False,False,,,False
+2023-07-09T15:02:22Z,android,0,BR,179.210.185.39,The Reason of Your Conviction,Hangar,The Reason of Your Conviction,spotify:track:155etkglL011sJNqeFuCc5,,,,,,,,unknown,endplay,False,True,,,False
+2023-07-09T15:02:22Z,android,0,BR,179.210.185.39,Just the Beginning,Hangar,The Reason of Your Conviction,spotify:track:4ALYe1bwVGhwWr9D1wXEYm,,,,,,,,unknown,endplay,False,True,,,False
+2023-07-09T15:02:24Z,android,0,BR,179.210.185.39,Just the Beginning,Hangar,The Reason of Your Conviction,spotify:track:4ALYe1bwVGhwWr9D1wXEYm,,,,,,,,unknown,endplay,False,True,,,False
+2023-07-09T15:02:24Z,android,0,BR,179.210.185.39,The Reason of Your Conviction,Hangar,The Reason of Your Conviction,spotify:track:155etkglL011sJNqeFuCc5,,,,,,,,unknown,endplay,False,True,,,False
+2023-07-09T15:02:24Z,android,3388,BR,179.210.185.39,A Bullet Meant For Me,Seventh Day Slumber,A Bullet Meant For Me,spotify:track:2Ounmolr3ti21DllvsQJUt,,,,,,,,unknown,endplay,False,True,,,False
+2023-07-09T15:02:27Z,android,1690,BR,179.210.185.39,Solteiro Frustrado - Ao Vivo,Gusttavo Lima,Solteiro Frustrado,spotify:track:4QqkNyWHUACzoT6isznHWS,,,,,,,,unknown,endplay,False,True,,,False
+2023-07-09T15:02:27Z,android,0,BR,179.210.185.39,Saudade da Minha Vida - Ao Vivo,Gusttavo Lima,Saudade da Minha Vida,spotify:track:51FFbyL0PjkYtjXJQP0JoP,,,,,,,,unknown,endplay,False,True,,,False
+2023-07-09T15:02:28Z,android,2386,BR,179.210.185.39,Difícil Acreditar - Versão Acústica,Os Bartira,Difícil Acreditar,spotify:track:1J6SRchSkxDhA5gaQIwyaZ,,,,,,,,unknown,endplay,False,True,,,False
+2023-07-09T15:02:28Z,android,0,BR,179.210.185.39,Só Posso Dizer (São Paulo),Nando Reis,Só Posso Dizer,spotify:track:3dor9wQtFRx1fqC7joWS6B,,,,,,,,unknown,endplay,False,True,,,False
+2023-07-09T15:02:32Z,android,0,BR,179.210.185.39,Fatal Love,Seventh Day Slumber,Death By Admiration,spotify:track:1JtQb7iu2UgGIuw0pHLvai,,,,,,,,unknown,endplay,False,True,,,False
+2023-07-09T15:02:32Z,android,0,BR,179.210.185.39,Valley of Disease,Avatar,Dance Devil Dance,spotify:track:3E1LNWo4UHcz7pEOaXcaqh,,,,,,,,unknown,endplay,False,True,,,False
+2023-07-09T15:02:32Z,android,3376,BR,179.210.185.39,Death By Admiration,Seventh Day Slumber,Death By Admiration,spotify:track:2qBaTV59Yj6hF3ldArMe2x,,,,,,,,unknown,endplay,False,True,,,False
+2023-07-09T15:02:32Z,android,1381,BR,179.210.185.39,Dance Devil Dance,Avatar,Dance Devil Dance,spotify:track:5BtDB8QIPa0nAWMmZ4m8Ai,,,,,,,,unknown,endplay,False,True,,,False
+2023-07-09T15:02:33Z,android,0,BR,179.210.185.39,Tempo Perdido,Legião Urbana,Dois,spotify:track:7MnT7msJZg3XBAS0OTfGrB,,,,,,,,unknown,endplay,False,True,,,False
+2023-07-09T15:02:33Z,android,0,BR,179.210.185.39,Exagerado,Cazuza,Melhores Momentos,spotify:track:6L5EaSYdQDLQHhaNPUlUs1,,,,,,,,unknown,endplay,False,True,,,False
+2023-07-09T15:02:33Z,android,497,BR,179.210.185.39,Exagerado,Cazuza,Melhores Momentos,spotify:track:6L5EaSYdQDLQHhaNPUlUs1,,,,,,,,unknown,unknown,False,False,,,False
+2023-07-09T15:02:33Z,android,686,BR,179.210.185.39,Sol Loiro - Ao Vivo,Seu Cuca,15 Anos Ao Vivo,spotify:track:6V342iXVqWXQT32NvkG3RA,,,,,,,,unknown,unknown,False,False,,,False
+2023-07-09T15:02:34Z,android,0,BR,179.210.185.39,Sol Loiro - Ao Vivo,Seu Cuca,15 Anos Ao Vivo,spotify:track:6V342iXVqWXQT32NvkG3RA,,,,,,,,unknown,endplay,False,True,,,False
+2023-07-09T15:02:34Z,android,0,BR,179.210.185.39,Exagerado,Cazuza,Melhores Momentos,spotify:track:6L5EaSYdQDLQHhaNPUlUs1,,,,,,,,unknown,endplay,False,True,,,False
+2023-07-09T15:02:34Z,android,0,BR,179.210.185.39,Deixa Ser,Seu Cuca,Mente Aberta,spotify:track:0M6g3RC49fnXTwPWySUwvO,,,,,,,,unknown,endplay,False,True,,,False
+2023-07-09T15:02:34Z,android,0,BR,179.210.185.39,Tempo Perdido,Legião Urbana,Dois,spotify:track:7MnT7msJZg3XBAS0OTfGrB,,,,,,,,unknown,endplay,False,True,,,False
+2023-07-09T15:02:36Z,android,880,BR,179.210.185.39,Phoenix,Enemy Inside,Phoenix,spotify:track:3bLzsG3qnxWAWKv6YNgUK9,,,,,,,,unknown,endplay,False,True,,,False
+2023-07-09T15:02:36Z,android,0,BR,179.210.185.39,Home,OCEANS,Hell Is Where The Heart Is,spotify:track:6TkvzXra1ReEbzgBorUDy1,,,,,,,,unknown,endplay,False,True,,,False
+2023-07-09T15:02:37Z,android,1633,BR,179.210.185.39,Tengo,Juliette,Tengo,spotify:track:4lrvlZwLnLYlXLhP5dH7DV,,,,,,,,unknown,endplay,False,True,,,False
+2023-07-09T15:02:37Z,android,777,BR,179.210.185.39,Brincando Comigo - Ao Vivo,Seu Cuca,15 Anos Ao Vivo,spotify:track:3v0OKzOdi4LFHYTZhUNuvh,,,,,,,,unknown,unknown,False,False,,,False
+2023-07-09T15:02:37Z,android,0,BR,179.210.185.39,Deixa Ser,Seu Cuca,Mente Aberta,spotify:track:0M6g3RC49fnXTwPWySUwvO,,,,,,,,unknown,endplay,False,True,,,False
+2023-07-09T15:02:37Z,android,0,BR,179.210.185.39,Sol Loiro - Ao Vivo,Seu Cuca,15 Anos Ao Vivo,spotify:track:6V342iXVqWXQT32NvkG3RA,,,,,,,,unknown,endplay,False,True,,,False
+2023-07-09T15:02:40Z,android,0,BR,179.210.185.39,Não Há - Ao Vivo,Seu Cuca,15 Anos Ao Vivo,spotify:track:5lJWkTFXz6kafHQygKjMHb,,,,,,,,unknown,endplay,False,True,,,False
+2023-07-09T15:02:40Z,android,0,BR,179.210.185.39,Brincando Comigo - Ao Vivo,Seu Cuca,15 Anos Ao Vivo,spotify:track:3v0OKzOdi4LFHYTZhUNuvh,,,,,,,,unknown,endplay,False,True,,,False
+2023-07-09T15:02:41Z,android,0,BR,179.210.185.39,Brincando Comigo - Ao Vivo,Seu Cuca,15 Anos Ao Vivo,spotify:track:3v0OKzOdi4LFHYTZhUNuvh,,,,,,,,unknown,endplay,False,True,,,False
+2023-07-09T15:02:41Z,android,0,BR,179.210.185.39,Não Há - Ao Vivo,Seu Cuca,15 Anos Ao Vivo,spotify:track:5lJWkTFXz6kafHQygKjMHb,,,,,,,,unknown,endplay,False,True,,,False
+2023-07-09T15:02:41Z,android,2283,BR,179.210.185.39,Frente Fria - Ao Vivo,ZeZé Di Camargo,Frente Fria,spotify:track:5ysEo5yxseXQzJ65XfEpkk,,,,,,,,unknown,endplay,False,True,,,False
+2023-07-09T15:02:42Z,android,0,BR,179.210.185.39,Here to Stay,Korn,Untouchables,spotify:track:5NHTtXGCdO7ul16xr0q93w,,,,,,,,unknown,endplay,False,True,,,False
+2023-07-09T15:02:42Z,android,1133,BR,179.210.185.39,Chop Suey!,System Of A Down,Toxicity,spotify:track:2DlHlPMa4M17kufBvI2lEN,,,,,,,,unknown,endplay,False,True,,,False
+2023-07-09T15:02:43Z,android,0,BR,179.210.185.39,Vai Ter Surpresa (Ao Vivo),Polyana Martins,Vai Ter Surpresa (Ao Vivo),spotify:track:3JBriN1tBkNyni3c7hsxj2,,,,,,,,unknown,endplay,False,True,,,False
+2023-07-09T15:02:43Z,android,982,BR,179.210.185.39,Enquanto a Igreja Ora,Maria Marçal,Enquanto a Igreja Ora,spotify:track:7zr5HXsViII0gR1Iwcr0ed,,,,,,,,unknown,endplay,False,True,,,False
+2023-07-09T15:02:44Z,android,0,BR,179.210.185.39,Vindicated,Dashboard Confessional,Dusk And Summer,spotify:track:2elN12zz0lo1GXjRCGhAmC,,,,,,,,unknown,endplay,False,True,,,False
+2023-07-09T15:02:44Z,android,0,BR,179.210.185.39,MakeDamnSure,Taking Back Sunday,Louder Now,spotify:track:6fTgbkBiMITtHUmik95ClX,,,,,,,,unknown,endplay,False,True,,,False
+2023-07-09T15:02:45Z,android,0,BR,179.210.185.39,Shadows of the Night,The Lightbringer of Sweden,Rise of the Beast,spotify:track:72uOIy9PanYowjjmN3slFb,,,,,,,,unknown,endplay,False,True,,,False
+2023-07-09T15:02:45Z,android,0,BR,179.210.185.39,The Moon,The Lightbringer of Sweden,Rise of the Beast,spotify:track:2GSdjU7sosm3uR8wjSVBme,,,,,,,,unknown,endplay,False,True,,,False
+2023-07-09T15:02:46Z,android,0,BR,179.210.185.39,Secrets Of The American Gods,Blind Guardian,The God Machine,spotify:track:6mr78USUSfwQqjDsYKwBhN,,,,,,,,unknown,endplay,False,True,,,False
+2023-07-09T15:02:46Z,android,0,BR,179.210.185.39,The Nameless,Tuatha de Danann,The Nameless,spotify:track:4MYFEKASLCYr6KSQMw1uhb,,,,,,,,unknown,endplay,False,True,,,False
+2023-07-09T15:02:47Z,android,0,BR,179.210.185.39,Bonfire of the Vanities,Edu Falaschi,Vera Cruz,spotify:track:4fuJJHyUosz9y6yARTw6GO,,,,,,,,unknown,endplay,False,True,,,False
+2023-07-09T15:02:47Z,android,0,BR,179.210.185.39,Burden,Edu Falaschi,Vera Cruz,spotify:track:42t8kDpCkGRbtJgcdTUHd9,,,,,,,,unknown,endplay,False,True,,,False
+2023-07-09T15:02:48Z,android,0,BR,179.210.185.39,Tá Chorando Por Quê?,Mari Borges,Tá Chorando Por Quê?,spotify:track:2jHJlzo6TYxqmMufgMDWBl,,,,,,,,unknown,endplay,False,True,,,False
+2023-07-09T15:02:48Z,android,0,BR,179.210.185.39,Grande é o Nosso Deus,Eyshila,Grande é o Nosso Deus,spotify:track:0Vl4I5bz6qiAs6VdaxdpA8,,,,,,,,unknown,endplay,False,True,,,False
+2023-07-09T15:02:49Z,android,599,BR,179.210.185.39,Erro Gostoso - Ao Vivo,Simone Mendes,Cintilante,spotify:track:51pxwIxDVCbFHW8oyJFQXD,,,,,,,,unknown,endplay,False,True,,,False
+2023-07-09T15:02:50Z,android,569,BR,179.210.185.39,Tá OK,DENNIS,Tá OK,spotify:track:0fABszUFNbNq9IW503Gj8v,,,,,,,,unknown,endplay,False,True,,,False
+2023-07-09T15:02:50Z,android,0,BR,179.210.185.39,MEIO TERMO - Ao Vivo,Luan Santana,LUAN CITY 2.0 - FASE 1,spotify:track:4zUFA8l78k4tCmoVuGtV8z,,,,,,,,unknown,endplay,False,True,,,False
+2023-07-09T15:02:52Z,android,1001,BR,179.210.185.39,Santo - Ao Vivo,Fernandinho,Santo (ao Vivo),spotify:track:0WbWyE1ctwFnexmpuqGCZe,,,,,,,,unknown,endplay,False,True,,,False
+2023-07-09T15:02:52Z,android,0,BR,179.210.185.39,Estamos de Pé - Ao Vivo,Marcus Salles,Estamos de Pé,spotify:track:715slv9zyByop7EttlmTjQ,,,,,,,,unknown,endplay,False,True,,,False
+2023-07-09T15:02:53Z,android,2228,BR,179.210.185.39,Exodus,blessthefall,Hollow Bodies,spotify:track:7MOJyn0FWNF5YRiPTJ2VfF,,,,,,,,unknown,unknown,False,False,,,False
+2023-07-09T15:02:54Z,android,0,BR,179.210.185.39,Exodus,blessthefall,Hollow Bodies,spotify:track:7MOJyn0FWNF5YRiPTJ2VfF,,,,,,,,unknown,endplay,False,True,,,False
+2023-07-09T15:02:54Z,android,0,BR,179.210.185.39,You Wear A Crown But You're No King,blessthefall,Hollow Bodies,spotify:track:6SB7E8zHBkr1haECnbJkDr,,,,,,,,unknown,endplay,False,True,,,False
+2023-07-09T15:02:56Z,android,0,BR,179.210.185.39,Te Peço Pra Ficar,Pineapple StormTv,Te Peço Pra Ficar,spotify:track:74JYs66H7a8iEM1CJdkBwA,,,,,,,,unknown,endplay,False,True,,,False
+2023-07-09T15:02:56Z,android,1765,BR,179.210.185.39,Te Ver Sorrindo,Cynthia Luz,Afetropia,spotify:track:6kHVVpIi9ISqALhgPfH5LD,,,,,,,,unknown,endplay,False,True,,,False
+2023-07-09T15:03:01Z,android,0,BR,179.210.185.39,Digital - Acústico,Pirredy,Digital,spotify:track:1LJvDkYyNLz4ZOYV6De1qX,,,,,,,,unknown,endplay,False,True,,,False
+2023-07-09T15:03:01Z,android,1317,BR,179.210.185.39,Tear Me to Pieces,Story Of The Year,Tear Me to Pieces,spotify:track:4o8iQ9HKmZP0D7eRcTnW0g,,,,,,,,unknown,endplay,False,True,,,False
+2023-07-09T15:03:01Z,android,0,BR,179.210.185.39,"Diga, parte 2 - Versão Studio62",Fresno,Infinito,spotify:track:36eh8nZR1pOejJoHIXDfmB,,,,,,,,unknown,endplay,False,True,,,False
+2023-07-09T15:03:01Z,android,4711,BR,179.210.185.39,Face Your Fear,The Dead Daisies,Radiance,spotify:track:2a5pilG4Jh0lWElCj6Opm4,,,,,,,,unknown,endplay,False,True,,,False
+2023-07-09T15:03:01Z,android,0,BR,179.210.185.39,Hypnotize Yourself,The Dead Daisies,Radiance,spotify:track:6gWShSYS9Dnpe59glmRSGR,,,,,,,,unknown,endplay,False,True,,,False
+2023-07-09T15:03:01Z,android,0,BR,179.210.185.39,Real Life,Story Of The Year,Tear Me to Pieces,spotify:track:0Aikw6pM5DPLOu4o9Vmf3P,,,,,,,,unknown,endplay,False,True,,,False
+2023-07-09T15:05:23Z,android,0,BR,179.210.185.39,Digital - Acústico,Pirredy,Digital,spotify:track:1LJvDkYyNLz4ZOYV6De1qX,,,,,,,,unknown,endplay,False,True,,,False
+2023-07-09T15:05:23Z,android,0,BR,179.210.185.39,"Diga, parte 2 - Versão Studio62",Fresno,Infinito,spotify:track:36eh8nZR1pOejJoHIXDfmB,,,,,,,,unknown,endplay,False,True,,,False
+2023-07-09T15:05:23Z,android,0,BR,179.210.185.39,Face Your Fear,The Dead Daisies,Radiance,spotify:track:2a5pilG4Jh0lWElCj6Opm4,,,,,,,,unknown,endplay,False,True,,,False
+2023-07-09T15:05:24Z,android,0,BR,179.210.185.39,You Wear A Crown But You're No King,blessthefall,Hollow Bodies,spotify:track:6SB7E8zHBkr1haECnbJkDr,,,,,,,,unknown,endplay,False,True,,,False
+2023-07-09T15:05:24Z,android,0,BR,179.210.185.39,Te Peço Pra Ficar,Pineapple StormTv,Te Peço Pra Ficar,spotify:track:74JYs66H7a8iEM1CJdkBwA,,,,,,,,unknown,endplay,False,True,,,False
+2023-07-09T15:05:24Z,android,0,BR,179.210.185.39,Tear Me to Pieces,Story Of The Year,Tear Me to Pieces,spotify:track:4o8iQ9HKmZP0D7eRcTnW0g,,,,,,,,unknown,endplay,False,True,,,False
+2023-07-09T15:05:24Z,android,0,BR,179.210.185.39,Te Ver Sorrindo,Cynthia Luz,Afetropia,spotify:track:6kHVVpIi9ISqALhgPfH5LD,,,,,,,,unknown,endplay,False,True,,,False
+2023-07-09T15:05:24Z,android,0,BR,179.210.185.39,Hypnotize Yourself,The Dead Daisies,Radiance,spotify:track:6gWShSYS9Dnpe59glmRSGR,,,,,,,,unknown,endplay,False,True,,,False
+2023-07-09T15:05:24Z,android,0,BR,179.210.185.39,Real Life,Story Of The Year,Tear Me to Pieces,spotify:track:0Aikw6pM5DPLOu4o9Vmf3P,,,,,,,,unknown,endplay,False,True,,,False
+2023-07-09T15:05:25Z,android,0,BR,179.210.185.39,MakeDamnSure,Taking Back Sunday,Louder Now,spotify:track:6fTgbkBiMITtHUmik95ClX,,,,,,,,unknown,endplay,False,True,,,False
+2023-07-09T15:05:25Z,android,0,BR,179.210.185.39,Here to Stay,Korn,Untouchables,spotify:track:5NHTtXGCdO7ul16xr0q93w,,,,,,,,unknown,endplay,False,True,,,False
+2023-07-09T15:05:25Z,android,0,BR,179.210.185.39,The Nameless,Tuatha de Danann,The Nameless,spotify:track:4MYFEKASLCYr6KSQMw1uhb,,,,,,,,unknown,endplay,False,True,,,False
+2023-07-09T15:05:25Z,android,0,BR,179.210.185.39,Exodus,blessthefall,Hollow Bodies,spotify:track:7MOJyn0FWNF5YRiPTJ2VfF,,,,,,,,unknown,endplay,False,True,,,False
+2023-07-09T15:05:25Z,android,0,BR,179.210.185.39,Bonfire of the Vanities,Edu Falaschi,Vera Cruz,spotify:track:4fuJJHyUosz9y6yARTw6GO,,,,,,,,unknown,endplay,False,True,,,False
+2023-07-09T15:05:25Z,android,0,BR,179.210.185.39,Burden,Edu Falaschi,Vera Cruz,spotify:track:42t8kDpCkGRbtJgcdTUHd9,,,,,,,,unknown,endplay,False,True,,,False
+2023-07-09T15:05:25Z,android,0,BR,179.210.185.39,Enquanto a Igreja Ora,Maria Marçal,Enquanto a Igreja Ora,spotify:track:7zr5HXsViII0gR1Iwcr0ed,,,,,,,,unknown,endplay,False,True,,,False
+2023-07-09T15:05:25Z,android,0,BR,179.210.185.39,The Moon,The Lightbringer of Sweden,Rise of the Beast,spotify:track:2GSdjU7sosm3uR8wjSVBme,,,,,,,,unknown,endplay,False,True,,,False
+2023-07-09T15:05:25Z,android,0,BR,179.210.185.39,Vai Ter Surpresa (Ao Vivo),Polyana Martins,Vai Ter Surpresa (Ao Vivo),spotify:track:3JBriN1tBkNyni3c7hsxj2,,,,,,,,unknown,endplay,False,True,,,False
+2023-07-09T15:05:25Z,android,0,BR,179.210.185.39,MEIO TERMO - Ao Vivo,Luan Santana,LUAN CITY 2.0 - FASE 1,spotify:track:4zUFA8l78k4tCmoVuGtV8z,,,,,,,,unknown,endplay,False,True,,,False
+2023-07-09T15:05:25Z,android,0,BR,179.210.185.39,Tá OK,DENNIS,Tá OK,spotify:track:0fABszUFNbNq9IW503Gj8v,,,,,,,,unknown,endplay,False,True,,,False
+2023-07-09T15:05:25Z,android,0,BR,179.210.185.39,Erro Gostoso - Ao Vivo,Simone Mendes,Cintilante,spotify:track:51pxwIxDVCbFHW8oyJFQXD,,,,,,,,unknown,endplay,False,True,,,False
+2023-07-09T15:05:25Z,android,0,BR,179.210.185.39,Grande é o Nosso Deus,Eyshila,Grande é o Nosso Deus,spotify:track:0Vl4I5bz6qiAs6VdaxdpA8,,,,,,,,unknown,endplay,False,True,,,False
+2023-07-09T15:05:25Z,android,0,BR,179.210.185.39,Santo - Ao Vivo,Fernandinho,Santo (ao Vivo),spotify:track:0WbWyE1ctwFnexmpuqGCZe,,,,,,,,unknown,endplay,False,True,,,False
+2023-07-09T15:05:25Z,android,0,BR,179.210.185.39,Secrets Of The American Gods,Blind Guardian,The God Machine,spotify:track:6mr78USUSfwQqjDsYKwBhN,,,,,,,,unknown,endplay,False,True,,,False
+2023-07-09T15:05:25Z,android,0,BR,179.210.185.39,Frente Fria - Ao Vivo,ZeZé Di Camargo,Frente Fria,spotify:track:5ysEo5yxseXQzJ65XfEpkk,,,,,,,,unknown,endplay,False,True,,,False
+2023-07-09T15:05:25Z,android,0,BR,179.210.185.39,Exodus,blessthefall,Hollow Bodies,spotify:track:7MOJyn0FWNF5YRiPTJ2VfF,,,,,,,,unknown,endplay,False,True,,,False
+2023-07-09T15:05:25Z,android,0,BR,179.210.185.39,You Wear A Crown But You're No King,blessthefall,Hollow Bodies,spotify:track:6SB7E8zHBkr1haECnbJkDr,,,,,,,,unknown,endplay,False,True,,,False
+2023-07-09T15:05:25Z,android,0,BR,179.210.185.39,Exodus,blessthefall,Hollow Bodies,spotify:track:7MOJyn0FWNF5YRiPTJ2VfF,,,,,,,,unknown,endplay,False,True,,,False
+2023-07-09T15:05:25Z,android,0,BR,179.210.185.39,Tá Chorando Por Quê?,Mari Borges,Tá Chorando Por Quê?,spotify:track:2jHJlzo6TYxqmMufgMDWBl,,,,,,,,unknown,endplay,False,True,,,False
+2023-07-09T15:05:25Z,android,0,BR,179.210.185.39,Vindicated,Dashboard Confessional,Dusk And Summer,spotify:track:2elN12zz0lo1GXjRCGhAmC,,,,,,,,unknown,endplay,False,True,,,False
+2023-07-09T15:05:25Z,android,0,BR,179.210.185.39,Chop Suey!,System Of A Down,Toxicity,spotify:track:2DlHlPMa4M17kufBvI2lEN,,,,,,,,unknown,endplay,False,True,,,False
+2023-07-09T15:05:25Z,android,0,BR,179.210.185.39,Sol Loiro - Ao Vivo,Seu Cuca,15 Anos Ao Vivo,spotify:track:6V342iXVqWXQT32NvkG3RA,,,,,,,,unknown,endplay,False,True,,,False
+2023-07-09T15:05:25Z,android,0,BR,179.210.185.39,Shadows of the Night,The Lightbringer of Sweden,Rise of the Beast,spotify:track:72uOIy9PanYowjjmN3slFb,,,,,,,,unknown,endplay,False,True,,,False
+2023-07-09T15:05:25Z,android,0,BR,179.210.185.39,Deixa Ser,Seu Cuca,Mente Aberta,spotify:track:0M6g3RC49fnXTwPWySUwvO,,,,,,,,unknown,endplay,False,True,,,False
+2023-07-09T15:05:25Z,android,0,BR,179.210.185.39,You Wear A Crown But You're No King,blessthefall,Hollow Bodies,spotify:track:6SB7E8zHBkr1haECnbJkDr,,,,,,,,unknown,endplay,False,True,,,False
+2023-07-09T15:05:25Z,android,0,BR,179.210.185.39,Estamos de Pé - Ao Vivo,Marcus Salles,Estamos de Pé,spotify:track:715slv9zyByop7EttlmTjQ,,,,,,,,unknown,endplay,False,True,,,False
+2023-07-09T15:05:27Z,android,0,BR,179.210.185.39,Não Há - Ao Vivo,Seu Cuca,15 Anos Ao Vivo,spotify:track:5lJWkTFXz6kafHQygKjMHb,,,,,,,,unknown,endplay,False,True,,,False
+2023-07-09T15:05:27Z,android,0,BR,179.210.185.39,Brincando Comigo - Ao Vivo,Seu Cuca,15 Anos Ao Vivo,spotify:track:3v0OKzOdi4LFHYTZhUNuvh,,,,,,,,unknown,endplay,False,True,,,False
+2023-07-09T15:05:29Z,android,0,BR,179.210.185.39,Tengo,Juliette,Tengo,spotify:track:4lrvlZwLnLYlXLhP5dH7DV,,,,,,,,unknown,endplay,False,True,,,False
+2023-07-09T15:05:29Z,android,0,BR,179.210.185.39,Home,OCEANS,Hell Is Where The Heart Is,spotify:track:6TkvzXra1ReEbzgBorUDy1,,,,,,,,unknown,endplay,False,True,,,False
+2023-07-09T15:05:29Z,android,0,BR,179.210.185.39,Deixa Ser,Seu Cuca,Mente Aberta,spotify:track:0M6g3RC49fnXTwPWySUwvO,,,,,,,,unknown,endplay,False,True,,,False
+2023-07-09T15:05:29Z,android,1316,BR,179.210.185.39,Phoenix,Enemy Inside,Phoenix,spotify:track:3bLzsG3qnxWAWKv6YNgUK9,,,,,,,,unknown,endplay,False,True,,,False
+2023-07-09T15:05:29Z,android,0,BR,179.210.185.39,Sol Loiro - Ao Vivo,Seu Cuca,15 Anos Ao Vivo,spotify:track:6V342iXVqWXQT32NvkG3RA,,,,,,,,unknown,endplay,False,True,,,False
+2023-09-03T22:56:07Z,android,1072,BR,179.210.185.39,Under You,Foo Fighters,But Here We Are,spotify:track:6vWu5uWlox5TVDPl3LvoG3,,,,,,,,unknown,endplay,False,True,,,False
+2023-09-03T22:56:07Z,android,629,BR,179.210.185.39,Não Vai Mais Ter Tristeza Aqui,Hateen,Não Vai Mais Ter Tristeza Aqui,spotify:track:4Ux8cEGow5tm658mvGhBgs,,,,,,,,unknown,unknown,False,False,,,False
+2023-09-03T22:56:14Z,android,535,BR,179.210.185.39,Cold World,Red,Cold World / Minus It All,spotify:track:1afLwyqQ2YOWCIycijrBOu,,,,,,,,unknown,endplay,False,True,,,False
+2023-09-03T22:56:14Z,android,5406,BR,179.210.185.39,Death By Admiration,Seventh Day Slumber,Death By Admiration,spotify:track:2qBaTV59Yj6hF3ldArMe2x,,,,,,,,unknown,endplay,False,True,,,False
+2024-01-14T21:33:21Z,android,0,BR,191.162.190.62,,,,,DIOGO DEFANTE & MENINA VENENO - Podpah #723,Podpah,spotify:episode:1V6zKBzxwQca6dtebICSUD,,,,,unknown,endplay,False,True,,,False
+2024-01-14T21:33:25Z,android,0,BR,191.162.190.62,,,,,DIOGO DEFANTE & MENINA VENENO - Podpah #723,Podpah,spotify:episode:1V6zKBzxwQca6dtebICSUD,,,,,unknown,endplay,False,True,,,False
+2024-02-14T21:01:17Z,android,2787,BR,191.162.166.106,Desbeijar Minha Boca - Ao Vivo,Henrique & Juliano,Menos É Mais,spotify:track:1TZJfIgbr3KAasGHjQ29y5,,,,,,,,unknown,endplay,False,True,,,False
+2024-03-08T19:35:16Z,android,3806269,BR,189.94.124.87,,,,,HÁBITOS QUE TE DEIXAM POBRES PRA SEMPRE (Com Primo Pobre) | Os Economistas 102,Os Economistas Podcast ,spotify:episode:3i6eqZoyMJBAofEreWZquM,,,,,clickrow,endplay,False,True,,,False
+2024-03-08T20:26:34Z,android,1519228,BR,189.94.124.87,,,,,HÁBITOS QUE TE DEIXAM POBRES PRA SEMPRE (Com Primo Pobre) | Os Economistas 102,Os Economistas Podcast ,spotify:episode:3i6eqZoyMJBAofEreWZquM,,,,,clickrow,endplay,False,True,,,False
+2024-03-30T18:53:02Z,android,505,BR,201.17.123.228,I Am Machine,Three Days Grace,Human,spotify:track:2UDumaw7osnyjH7RZ2DLpB,,,,,,,,unknown,endplay,False,True,,,False
+2024-03-30T18:53:04Z,android,2459,BR,201.17.123.228,Toxicity,System Of A Down,Toxicity,spotify:track:0snQkGI5qnAmohLE7jTsTn,,,,,,,,unknown,endplay,False,True,,,False
+2024-03-30T18:53:05Z,android,376,BR,201.17.123.228,I Am Machine,Three Days Grace,Human,spotify:track:2UDumaw7osnyjH7RZ2DLpB,,,,,,,,unknown,endplay,False,True,,,False
+2024-04-09T00:04:08Z,android,4291,BR,201.17.123.228,Indestructible,Disturbed,Indestructible,spotify:track:42ZVk59gT4tMlrZmd8Ijxf,,,,,,,,unknown,endplay,False,True,,,False
+2024-05-10T20:52:11Z,android,3301,BR,191.57.13.145,Blackout,Lonewolf,Hell To Me,spotify:track:0AaytckAXvERKE7Vx9kjDu,,,,,,,,unknown,endplay,False,True,,,False
+2024-05-10T20:52:21Z,android,8921,BR,191.57.13.145,Hella Good,ALTERJOY,Hella Good,spotify:track:3PqtU5LB5UrPsTiDezP88q,,,,,,,,unknown,endplay,False,True,,,False
+2024-05-22T17:08:50Z,android,285,BR,201.17.123.228,Muro,menores atos,Muro,spotify:track:66TQOfi5x6CC6Ozmdxvn07,,,,,,,,unknown,endplay,False,True,,,False
+2024-05-22T17:08:51Z,android,536,BR,201.17.123.228,calor do momento,Os Garotin,OS GAROTIN DE SÃO GONÇALO,spotify:track:66nRZPGdQWXZhTSfvpIFDS,,,,,,,,unknown,endplay,False,True,,,False
+2024-05-22T17:08:52Z,android,182,BR,201.17.123.228,Wind of Change,Scorpions,Comeblack,spotify:track:5WSsTyBvMEFG3ac6JKb9gY,,,,,,,,unknown,endplay,False,True,,,False
+2024-05-30T17:56:27Z,android,433,BR,201.17.123.228,Seasons,The Veer Union,Against The Grain,spotify:track:1NE4ga03C5fRXGPcDIo9pA,,,,,,,,unknown,endplay,False,True,,,False
+2024-05-30T17:56:29Z,android,934,BR,201.17.123.228,Lived It Up,Ghosts of August,Ghosts of August,spotify:track:09MUe8Iu9rRgjGMiz1LiIh,,,,,,,,unknown,endplay,False,True,,,False
+2024-06-01T23:47:37Z,android,147,BR,201.17.123.228,O Tempo Não Para,Noturnall,O Tempo Não Para,spotify:track:0makTIleiItaT4oD2ffTYd,,,,,,,,unknown,endplay,False,True,,,False
+2024-06-01T23:47:39Z,android,1502,BR,201.17.123.228,The Sin and the Sentence,Trivium,The Sin and the Sentence,spotify:track:6156ZPGcezId0Bmw7x7c7K,,,,,,,,unknown,endplay,False,True,,,False
+2024-06-01T23:47:40Z,android,679,BR,201.17.123.228,Gone Sovereign,Stone Sour,"House of Gold & Bones, Part 1",spotify:track:7c3DfsUMhDTnf2JewbfU8w,,,,,,,,unknown,endplay,False,True,,,False
+2024-06-01T23:47:44Z,android,3357,BR,201.17.123.228,Beautiful,HIM,Deep Shadows and Brilliant Highlights,spotify:track:5AouzrAanERyAstLcTPkEf,,,,,,,,unknown,endplay,False,True,,,False
+2024-06-26T20:06:58Z,android,3185,BR,191.57.10.112,Indestructible,Disturbed,Indestructible,spotify:track:2SkCSHCy3uCnUy7wIzigvv,,,,,,,,trackdone,endplay,True,True,,,False
+2024-09-06T13:30:26Z,android,656,BR,2804:14d:5cd1:48a4:5a12:3c3e:4322:c934,,,,,Mãe de ISABELLA NARDONI buscou ESPIRITUALIDADE para enfrentar luto da filha | LendaCast #139,LendaCast,spotify:episode:5H7v2emteXU4wTvolCUMX5,,,,,unknown,endplay,False,True,False,1725629425,False
+2024-09-06T13:32:50Z,android,2568,BR,2804:14d:5cd1:48a4:5a12:3c3e:4322:c934,,,,,Mãe de ISABELLA NARDONI buscou ESPIRITUALIDADE para enfrentar luto da filha | LendaCast #139,LendaCast,spotify:episode:5H7v2emteXU4wTvolCUMX5,,,,,unknown,endplay,False,True,False,1725629568,False
+2024-09-07T13:43:26Z,android,436,BR,2804:14d:5cd1:48a4:6d5d:5ac0:fc0f:3fe6,,,,,Mãe de ISABELLA NARDONI buscou ESPIRITUALIDADE para enfrentar luto da filha | LendaCast #139,LendaCast,spotify:episode:5H7v2emteXU4wTvolCUMX5,,,,,unknown,endplay,False,True,False,1725716606,False
+2024-09-07T14:03:26Z,android,571,BR,179.218.19.228,,,,,Mãe de ISABELLA NARDONI buscou ESPIRITUALIDADE para enfrentar luto da filha | LendaCast #139,LendaCast,spotify:episode:5H7v2emteXU4wTvolCUMX5,,,,,unknown,endplay,False,True,False,1725717805,False
+2024-09-07T14:03:37Z,android,858,BR,2804:388:4132:33c:1:0:6b5a:4d53,,,,,Mãe de ISABELLA NARDONI buscou ESPIRITUALIDADE para enfrentar luto da filha | LendaCast #139,LendaCast,spotify:episode:5H7v2emteXU4wTvolCUMX5,,,,,unknown,endplay,False,True,False,1725717816,False
+2024-09-07T14:32:45Z,android,595,BR,2804:388:4132:33c:1:0:6b5a:4d53,,,,,Mãe de ISABELLA NARDONI buscou ESPIRITUALIDADE para enfrentar luto da filha | LendaCast #139,LendaCast,spotify:episode:5H7v2emteXU4wTvolCUMX5,,,,,unknown,endplay,False,True,False,1725719564,False
+2024-09-07T14:32:48Z,android,2302,BR,2804:388:4132:33c:1:0:6b5a:4d53,,,,,Mãe de ISABELLA NARDONI buscou ESPIRITUALIDADE para enfrentar luto da filha | LendaCast #139,LendaCast,spotify:episode:5H7v2emteXU4wTvolCUMX5,,,,,unknown,endplay,False,True,False,1725719565,False
+2024-09-07T15:44:31Z,android,9379,BR,2804:388:4114:be4a:1:0:6c8b:2b45,,,,,Mãe de ISABELLA NARDONI buscou ESPIRITUALIDADE para enfrentar luto da filha | LendaCast #139,LendaCast,spotify:episode:5H7v2emteXU4wTvolCUMX5,,,,,unknown,endplay,False,True,False,1725723861,False
+2024-09-07T18:18:16Z,android,283,BR,2804:14d:5cd1:48a4:2232:3f32:8364:d59a,,,,,Mãe de ISABELLA NARDONI buscou ESPIRITUALIDADE para enfrentar luto da filha | LendaCast #139,LendaCast,spotify:episode:5H7v2emteXU4wTvolCUMX5,,,,,unknown,endplay,False,True,False,1725733095,False
+2024-09-08T15:59:04Z,android,1035,BR,2804:14d:5cd1:48a4:f381:376c:b7f7:8525,,,,,Mãe de ISABELLA NARDONI buscou ESPIRITUALIDADE para enfrentar luto da filha | LendaCast #139,LendaCast,spotify:episode:5H7v2emteXU4wTvolCUMX5,,,,,unknown,endplay,False,True,False,1725811143,False
+2024-09-13T11:32:35Z,android,2487,BR,2804:14d:5cd1:48a4:b68e:aa4b:d150:cbd8,,,,,Como não ser refém do que você pensa,Terapia no dia a dia,spotify:episode:2yn9gM8ro7Uj0SsoaIwSIV,,,,,unknown,endplay,False,True,False,1726227152,False
+2024-09-13T11:33:09Z,android,9385,BR,2804:14d:5cd1:48a4:b68e:aa4b:d150:cbd8,,,,,Como não ser refém do que você pensa,Terapia no dia a dia,spotify:episode:2yn9gM8ro7Uj0SsoaIwSIV,,,,,unknown,endplay,False,True,False,1726227180,False
+2024-09-13T11:35:27Z,android,122,BR,2804:14d:5cd1:48a4:b68e:aa4b:d150:cbd8,,,,,Como não ser refém do que você pensa,Terapia no dia a dia,spotify:episode:2yn9gM8ro7Uj0SsoaIwSIV,,,,,unknown,endplay,False,True,False,1726227327,False
+2024-09-13T11:52:18Z,android,493,BR,179.218.19.228,,,,,Como não ser refém do que você pensa,Terapia no dia a dia,spotify:episode:2yn9gM8ro7Uj0SsoaIwSIV,,,,,unknown,endplay,False,True,False,1726228337,False
+2024-09-13T12:11:21Z,android,5609,BR,2804:388:4124:3999:1:0:8a4b:f8bd,,,,,Como não ser refém do que você pensa,Terapia no dia a dia,spotify:episode:2yn9gM8ro7Uj0SsoaIwSIV,,,,,unknown,endplay,False,True,False,1726229476,False
+2024-09-13T12:55:16Z,android,1379,BR,2804:388:4130:3392:1:0:8b00:bde8,,,,,Como não ser refém do que você pensa,Terapia no dia a dia,spotify:episode:2yn9gM8ro7Uj0SsoaIwSIV,,,,,unknown,endplay,False,True,False,1726232114,False
+2024-09-13T13:10:11Z,android,1163,BR,2804:388:902a:4b8a:0:51:50f6:e001,,,,,Como não ser refém do que você pensa,Terapia no dia a dia,spotify:episode:2yn9gM8ro7Uj0SsoaIwSIV,,,,,unknown,endplay,False,True,False,1726233010,False
+2024-09-14T15:01:02Z,android,545,BR,2804:388:5003:5e9c:0:4c:9d86:3b01,,,,,Como não ser refém do que você pensa,Terapia no dia a dia,spotify:episode:2yn9gM8ro7Uj0SsoaIwSIV,,,,,unknown,endplay,False,True,False,1726326061,False
+2024-09-16T01:35:01Z,android,1810,BR,2804:14d:5cd1:48a4:f797:c619:be94:6def,,,,,Como não ser refém do que você pensa,Terapia no dia a dia,spotify:episode:2yn9gM8ro7Uj0SsoaIwSIV,,,,,unknown,endplay,False,True,False,1726450499,False
+2024-09-16T02:11:16Z,android,244,BR,2804:14d:5cd1:48a4:f797:c619:be94:6def,,,,,Como não ser refém do que você pensa,Terapia no dia a dia,spotify:episode:2yn9gM8ro7Uj0SsoaIwSIV,,,,,unknown,endplay,False,True,False,1726452676,False
+2024-10-12T14:03:41Z,android,1478,BR,2804:14d:5cd1:48a4:2a2e:55cb:6554:36bb,,,,,5 Serial Killers da Atualidade,Colecionador de Ossos,spotify:episode:3hj0YAmLpBREtcte1rfZRw,,,,,unknown,endplay,False,True,False,1728741819,False
+2024-10-12T15:15:12Z,android,390,BR,2804:388:4105:3d8c:1:0:202e:2b1c,,,,,5 Serial Killers da Atualidade,Colecionador de Ossos,spotify:episode:3hj0YAmLpBREtcte1rfZRw,,,,,unknown,endplay,False,True,False,1728746112,False
+2024-10-12T15:15:19Z,android,6636,BR,2804:388:4105:3d8c:1:0:202e:2b1c,,,,,5 Serial Killers da Atualidade,Colecionador de Ossos,spotify:episode:3hj0YAmLpBREtcte1rfZRw,,,,,unknown,endplay,False,True,False,1728746112,False
+2024-10-12T16:03:28Z,android,986,BR,2804:14d:5cd1:48a4:ca13:60a4:6b00:b0c8,,,,,5 Serial Killers da Atualidade,Colecionador de Ossos,spotify:episode:3hj0YAmLpBREtcte1rfZRw,,,,,unknown,endplay,False,True,False,1728749007,False
+2024-10-31T13:35:57Z,android,3923,BR,179.218.19.228,,,,,Caso DIDDY e o lado SOMBRIO da vida dos famosos com Victor Marques | LendaCast #148,LendaCast,spotify:episode:1kmewXNdJeYKNDbswokHxL,,,,,unknown,endplay,False,True,False,1730381753,False
+2024-10-31T13:36:57Z,android,725,BR,179.218.19.228,,,,,Caso DIDDY e o lado SOMBRIO da vida dos famosos com Victor Marques | LendaCast #148,LendaCast,spotify:episode:1kmewXNdJeYKNDbswokHxL,,,,,unknown,endplay,False,True,False,1730381816,False
+2024-11-01T14:57:06Z,android,3498,BR,2804:388:4126:7bcc:1:0:8674:2cdc,,,,,Caso DIDDY e o lado SOMBRIO da vida dos famosos com Victor Marques | LendaCast #148,LendaCast,spotify:episode:1kmewXNdJeYKNDbswokHxL,,,,,unknown,endplay,False,True,False,1730473018,False
+2024-11-02T14:04:33Z,android,2149,BR,2804:388:412a:46d7:1:0:8bec:71e2,,,,,Caso DIDDY e o lado SOMBRIO da vida dos famosos com Victor Marques | LendaCast #148,LendaCast,spotify:episode:1kmewXNdJeYKNDbswokHxL,,,,,unknown,endplay,False,True,False,1730556270,False
+2024-11-18T12:41:41Z,android,1408,BR,2804:14d:5cd1:48a4:b3e8:d01d:ecf3:30,,,,,"#269/as sutilezas nada sutis do abuso, com Mariana Goldfarb","Bom dia, Obvious",spotify:episode:6w5uFWH1ZNU5Wk3JgjXUe0,,,,,unknown,endplay,False,True,False,1731933700,False
+2024-11-19T11:39:41Z,android,585,BR,2804:14d:5cd1:48a4:e2ee:ad2f:3881:43fe,,,,,"#269/as sutilezas nada sutis do abuso, com Mariana Goldfarb","Bom dia, Obvious",spotify:episode:6w5uFWH1ZNU5Wk3JgjXUe0,,,,,unknown,endplay,False,True,False,1732016380,False
+2024-11-28T12:32:31Z,xbox,62415,BR,179.218.19.228,Indestructible,Disturbed,Indestructible,spotify:track:0Sn8IZbrV2q59DWwczl9H4,,,,,,,,remote,endplay,False,True,False,1732797087,False
+2024-11-28T12:32:41Z,xbox,8668,BR,179.218.19.228,Word Up!,Korn,Word Up!,spotify:track:7rX6Agc4X4cP7vKpVtIz1v,,,,,,,,clickrow,unknown,True,False,False,1732797151,False
+2024-11-29T14:14:37Z,xbox,3471,BR,179.218.19.228,Word Up!,Korn,Word Up!,spotify:track:7rX6Agc4X4cP7vKpVtIz1v,,,,,,,,remote,unknown,False,False,False,1732889672,False
+2024-12-27T17:57:06Z,android,4204,BR,2804:14d:5cd1:48a4:bf59:d537:be25:b83a,,,,,#287 - Nóias e perrengues de final de ano ft. Camila Fremder,Donos da Razão,spotify:episode:4Q7B0M0nJT07qC8Po338SR,,,,,unknown,endplay,False,True,False,1735322222,False
+2024-12-28T10:49:59Z,android,1552,BR,2804:14d:5cd1:48a4:7795:2b1c:115d:9d90,,,,,#287 - Nóias e perrengues de final de ano ft. Camila Fremder,Donos da Razão,spotify:episode:4Q7B0M0nJT07qC8Po338SR,,,,,unknown,endplay,False,True,False,1735382997,False
+2024-12-29T23:04:01Z,android,2859,BR,2804:14d:5cd1:48a4:f668:e7ed:572:2e1a,,,,,#287 - Nóias e perrengues de final de ano ft. Camila Fremder,Donos da Razão,spotify:episode:4Q7B0M0nJT07qC8Po338SR,,,,,unknown,endplay,False,True,False,1735513438,False
+2024-12-30T00:03:33Z,android,0,BR,2804:14d:5cd1:48a4:cf7e:ed39:1d47:1553,,,,,#287 - Nóias e perrengues de final de ano ft. Camila Fremder,Donos da Razão,spotify:episode:4Q7B0M0nJT07qC8Po338SR,,,,,unknown,endplay,False,True,False,1735517013,False
+2024-12-30T00:03:36Z,android,67,BR,2804:14d:5cd1:48a4:cf7e:ed39:1d47:1553,,,,,#287 - Nóias e perrengues de final de ano ft. Camila Fremder,Donos da Razão,spotify:episode:4Q7B0M0nJT07qC8Po338SR,,,,,unknown,endplay,False,True,False,1735517016,False
+2025-01-08T13:45:36Z,android,2363,BR,2804:14d:5cd1:48a4:eae:5789:6f0c:41c3,,,,,Billions Club Live with The Weeknd: A Concert Film,Billions Club: The Series,spotify:episode:2PbEx8o9c7rG9gyaklweox,,,,,unknown,endplay,False,True,False,1736343934,False
+2025-01-08T14:57:40Z,android,1224,BR,2804:388:4108:f969:483f:9eff:feaf:9e2a,,,,,Billions Club Live with The Weeknd: A Concert Film,Billions Club: The Series,spotify:episode:2PbEx8o9c7rG9gyaklweox,,,,,unknown,endplay,False,True,False,1736348259,False
+2025-01-08T14:57:41Z,android,0,BR,2804:388:4108:f969:483f:9eff:feaf:9e2a,,,,,Billions Club Live with The Weeknd: A Concert Film,Billions Club: The Series,spotify:episode:2PbEx8o9c7rG9gyaklweox,,,,,unknown,endplay,False,True,False,1736348261,False
+2025-01-08T14:58:22Z,android,12937,BR,2804:14d:5cd1:48a4:45cf:f2c2:f862:c9d3,,,,,Billions Club Live with The Weeknd: A Concert Film,Billions Club: The Series,spotify:episode:2PbEx8o9c7rG9gyaklweox,,,,,unknown,endplay,False,True,False,1736348289,False
+2025-01-09T11:13:25Z,android,1545,BR,2804:14d:5cd1:48a4:c371:7924:2718:6cbc,,,,,Billions Club Live with The Weeknd: A Concert Film,Billions Club: The Series,spotify:episode:2PbEx8o9c7rG9gyaklweox,,,,,unknown,endplay,False,True,False,1736421203,False
+2025-01-09T11:13:27Z,android,1784,BR,2804:14d:5cd1:48a4:c371:7924:2718:6cbc,,,,,Billions Club Live with The Weeknd: A Concert Film,Billions Club: The Series,spotify:episode:2PbEx8o9c7rG9gyaklweox,,,,,unknown,endplay,False,True,False,1736421205,False
+2025-01-09T11:14:03Z,android,1867,BR,2804:14d:5cd1:48a4:c371:7924:2718:6cbc,,,,,Billions Club Live with The Weeknd: A Concert Film,Billions Club: The Series,spotify:episode:2PbEx8o9c7rG9gyaklweox,,,,,unknown,endplay,False,True,False,1736421241,False
+2025-01-09T11:14:12Z,android,5302,BR,2804:14d:5cd1:48a4:c371:7924:2718:6cbc,,,,,Billions Club Live with The Weeknd: A Concert Film,Billions Club: The Series,spotify:episode:2PbEx8o9c7rG9gyaklweox,,,,,unknown,endplay,False,True,False,1736421247,False
+2025-01-09T13:03:13Z,android,95,BR,2804:388:4105:cc8d:a419:2aff:fe35:87cb,,,,,Billions Club Live with The Weeknd: A Concert Film,Billions Club: The Series,spotify:episode:2PbEx8o9c7rG9gyaklweox,,,,,unknown,endplay,False,True,False,1736427793,False
+2025-02-07T10:08:25Z,android,1798,BR,2804:14d:5cd1:67d9:31c5:d648:9db2:5a,,,,,pra você que espera sempre o pior ,Colo de amiga por @sofidisse,spotify:episode:0WOTIBTjMgnB7w3AtBk5FM,,,,,unknown,endplay,False,True,False,1738922903,False
+2025-02-07T10:37:29Z,android,620,BR,2804:14d:5cd1:67d9:31c5:d648:9db2:5a,,,,,pra você que espera sempre o pior ,Colo de amiga por @sofidisse,spotify:episode:0WOTIBTjMgnB7w3AtBk5FM,,,,,unknown,endplay,False,True,False,1738924649,False
+2025-02-08T01:02:35Z,android,588,BR,2804:14d:5cd1:67d9:f744:203a:6b4c:cbef,,,,,pra você que espera sempre o pior ,Colo de amiga por @sofidisse,spotify:episode:0WOTIBTjMgnB7w3AtBk5FM,,,,,unknown,endplay,False,True,False,1738976554,False
+2025-02-11T10:16:24Z,android,1133,BR,2804:14d:5cd1:67d9:9fc8:74ea:e072:67f6,,,,,NÃO IMPORTA #01: CASTELO DE NEVE E GELO E OUTRAS COISAS,NÃO IMPORTA,spotify:episode:75SeHB8Jw2L8iJWTC2Ejbv,,,,,unknown,endplay,False,True,False,1739268983,False
+2025-02-11T10:16:34Z,android,5744,BR,2804:14d:5cd1:67d9:9fc8:74ea:e072:67f6,,,,,NÃO IMPORTA #01: CASTELO DE NEVE E GELO E OUTRAS COISAS,NÃO IMPORTA,spotify:episode:75SeHB8Jw2L8iJWTC2Ejbv,,,,,unknown,endplay,False,True,False,1739268988,False
+2025-02-11T11:25:20Z,android,4526,BR,2804:388:410a:620a:1037:37ff:fea7:c00d,,,,,NÃO IMPORTA #01: CASTELO DE NEVE E GELO E OUTRAS COISAS,NÃO IMPORTA,spotify:episode:75SeHB8Jw2L8iJWTC2Ejbv,,,,,unknown,endplay,False,True,False,1739273116,False
+2025-02-12T10:13:13Z,android,0,BR,2804:14d:5cd1:67d9:9a58:ec7d:9439:1f51,,,,,NÃO IMPORTA #01: CASTELO DE NEVE E GELO E OUTRAS COISAS,NÃO IMPORTA,spotify:episode:75SeHB8Jw2L8iJWTC2Ejbv,,,,,unknown,endplay,False,True,False,1739355192,False
+2025-02-12T10:13:14Z,android,677,BR,2804:14d:5cd1:67d9:9a58:ec7d:9439:1f51,,,,,NÃO IMPORTA #01: CASTELO DE NEVE E GELO E OUTRAS COISAS,NÃO IMPORTA,spotify:episode:75SeHB8Jw2L8iJWTC2Ejbv,,,,,unknown,endplay,False,True,False,1739355193,False
+2025-02-12T10:13:32Z,android,8222,BR,2804:14d:5cd1:67d9:9a58:ec7d:9439:1f51,,,,,NÃO IMPORTA #01: CASTELO DE NEVE E GELO E OUTRAS COISAS,NÃO IMPORTA,spotify:episode:75SeHB8Jw2L8iJWTC2Ejbv,,,,,unknown,endplay,False,True,False,1739355204,False
+2025-02-12T10:13:42Z,android,2173,BR,2804:14d:5cd1:67d9:9a58:ec7d:9439:1f51,,,,,NÃO IMPORTA #01: CASTELO DE NEVE E GELO E OUTRAS COISAS,NÃO IMPORTA,spotify:episode:75SeHB8Jw2L8iJWTC2Ejbv,,,,,unknown,endplay,False,True,False,1739355220,False
+2025-02-12T14:07:04Z,android,1128,BR,2804:14d:5cd1:67d9:c27:3b64:c6ec:632b,,,,,NÃO IMPORTA #01: CASTELO DE NEVE E GELO E OUTRAS COISAS,NÃO IMPORTA,spotify:episode:75SeHB8Jw2L8iJWTC2Ejbv,,,,,unknown,endplay,False,True,False,1739369223,False
+2025-02-14T17:09:16Z,android,1468,BR,2804:14d:5cd1:67d9:1ecf:ab46:7a62:e0bf,,,,,CHICO FELITTI | RivoTalks #064,RivoNews,spotify:episode:4RXkFDgQRcPvyyc5y1GfkI,,,,,unknown,endplay,False,True,False,1739552955,False
+2025-02-14T17:48:12Z,android,1359,BR,2804:388:4129:df6:20cf:64ff:feac:76b7,,,,,CHICO FELITTI | RivoTalks #064,RivoNews,spotify:episode:4RXkFDgQRcPvyyc5y1GfkI,,,,,unknown,endplay,False,True,False,1739555291,False
+2025-02-14T18:02:24Z,android,1592,BR,2804:388:4129:df6:20cf:64ff:feac:76b7,,,,,CHICO FELITTI | RivoTalks #064,RivoNews,spotify:episode:4RXkFDgQRcPvyyc5y1GfkI,,,,,unknown,endplay,False,True,False,1739556142,False
+2025-02-14T21:43:25Z,android,1694,BR,2804:388:411b:2432:1050:17ff:fe1c:e3a4,,,,,CHICO FELITTI | RivoTalks #064,RivoNews,spotify:episode:4RXkFDgQRcPvyyc5y1GfkI,,,,,unknown,endplay,False,True,False,1739569403,False
+2025-02-15T10:25:28Z,android,1747,BR,2804:388:411b:2432:1050:17ff:fe1c:e3a4,,,,,CHICO FELITTI | RivoTalks #064,RivoNews,spotify:episode:4RXkFDgQRcPvyyc5y1GfkI,,,,,unknown,endplay,False,True,False,1739615125,False
+2025-02-15T10:25:33Z,android,5177,BR,2804:388:411b:2432:1050:17ff:fe1c:e3a4,,,,,CHICO FELITTI | RivoTalks #064,RivoNews,spotify:episode:4RXkFDgQRcPvyyc5y1GfkI,,,,,unknown,endplay,False,True,False,1739615128,False
+2025-02-15T10:51:33Z,android,0,BR,2804:14d:5cd1:67d9:971a:a085:d1af:731d,,,,,CHICO FELITTI | RivoTalks #064,RivoNews,spotify:episode:4RXkFDgQRcPvyyc5y1GfkI,,,,,unknown,endplay,False,True,False,1739616693,False
+2025-04-07T13:02:02Z,android,3250864,BR,2804:388:4120:d3b1:34db:62ff:fe3c:4636,,,,,Estatisticast 01: Gerei R$ 1 milhão de valor com análise de dados - Delfino Neto,Estatisticast,spotify:episode:4ZVqrDFZrOCgEx2qdqLiyp,,,,,clickrow,logout,False,False,False,1744026179,False
+2025-04-07T17:37:45Z,windows,3951,BR,179.218.19.228,,,,,Estatisticast 55: Consultoria em estatística e análise de dados - Bel Carnielli,Estatisticast,spotify:episode:24Mjs8ijaja1RyTONQw7Fz,,,,,playbtn,endplay,False,True,,,False
+2025-04-26T14:59:33Z,android,1830,BR,2804:14d:5cd1:67d9:2d86:b72a:bf2d:6f0c,Paradise,Smash Into Pieces,Paradise,spotify:track:2S1I4PguYwOlibvXWNYubq,,,,,,,,unknown,endplay,False,True,False,1745679571,False
+2025-04-26T14:59:47Z,android,11894,BR,2804:14d:5cd1:67d9:2d86:b72a:bf2d:6f0c,Paradise,Smash Into Pieces,Paradise,spotify:track:2S1I4PguYwOlibvXWNYubq,,,,,,,,unknown,endplay,False,True,False,1745679575,False
+2025-04-26T14:59:53Z,android,3103,BR,2804:14d:5cd1:67d9:2d86:b72a:bf2d:6f0c,Paradise,Smash Into Pieces,Paradise,spotify:track:2S1I4PguYwOlibvXWNYubq,,,,,,,,unknown,endplay,False,True,False,1745679590,False
+2025-04-26T15:00:24Z,android,531,BR,2804:14d:5cd1:67d9:2d86:b72a:bf2d:6f0c,Paradise,Smash Into Pieces,Paradise,spotify:track:2S1I4PguYwOlibvXWNYubq,,,,,,,,unknown,endplay,False,True,False,1745679623,False
+2025-04-26T15:40:15Z,android,3398,BR,2804:14d:5cd1:67d9:5fcb:d599:d0a:c7e5,Paradise,Smash Into Pieces,Paradise,spotify:track:2S1I4PguYwOlibvXWNYubq,,,,,,,,unknown,endplay,False,True,False,1745682012,False
+2025-04-26T16:11:52Z,android,0,BR,2804:14d:5cd1:67d9:5fcb:d599:d0a:c7e5,Paradise,Smash Into Pieces,Paradise,spotify:track:2S1I4PguYwOlibvXWNYubq,,,,,,,,unknown,endplay,False,True,False,1745683912,False
+2025-04-28T12:54:00Z,android,239,BR,2804:14d:5cd1:67d9:9932:ae67:1f40:9e0c,Paradise,Smash Into Pieces,Paradise,spotify:track:2S1I4PguYwOlibvXWNYubq,,,,,,,,unknown,endplay,False,True,False,1745844839,False
