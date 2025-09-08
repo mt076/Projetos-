@@ -29,13 +29,3 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker logo"  />
 </div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mt076&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=blue-green&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
