@@ -134,3 +134,8 @@ if banco_vetorial:
     st.sidebar.success("✓ Banco de dados vetorial criado")
 else:
     st.sidebar.error("✗ Banco de dados não criado")
+
+
+    '''
+    python -m streamlit run chatbot_estagiarios.py
+    '''
