@@ -1,0 +1,6 @@
+'''
+Execute: cd c:\Users\03828092\Desktop\Chatbot
+Execute: pip install -r requirements.txt
+Execute: python -m streamlit run atendimento_estagiarios.py
+
+'''

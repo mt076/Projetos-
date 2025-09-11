@@ -1,0 +1,8 @@
+streamlit
+torch
+sentence-transformers
+llama-index
+llama-index-llms-gemini
+google-generativeai
+llama-index-embeddings-huggingface
+docx2txt

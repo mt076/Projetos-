@@ -1,0 +1,18 @@
+/* Cor de fundo principal */
+.stApp {
+    background-color: #FFFFFF;
+}
+/* Cor do texto principal */
+.stApp, .stTextArea, .stTextInput, .stMarkdown {
+    color: #31333F;
+}
+/* Cor dos botões */
+.stButton>button {
+    background-color: #2a688f;
+    color: #FFFFFF;
+    border-color: #2a688f;
+}
+/* Cor de fundo da barra lateral */
+[data-testid="stSidebar"] {
+    background-color: #f0f2f6;
+}
