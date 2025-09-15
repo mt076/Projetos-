@@ -1,18 +1,90 @@
-/* Cor de fundo principal */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap');
+
+:root {
+    --fjg-azul-principal: #004A7F; 
+    --fjg-cinza-secundario: #808080;
+    --cor-fundo-app: #F0F2F6;      
+    --cor-fundo-elemento: #FFFFFF;  
+    --cor-texto-principal: #31333F; 
+    --cor-texto-claro: #FFFFFF;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
 .stApp {
-    background-color: #FFFFFF;
+    background-color: var(--cor-fundo-app);
 }
-/* Cor do texto principal */
+
 .stApp, .stTextArea, .stTextInput, .stMarkdown {
-    color: #31333F;
+    color: var(--cor-texto-principal);
 }
-/* Cor dos botões */
-.stButton>button {
-    background-color: #2a688f;
-    color: #FFFFFF;
-    border-color: #2a688f;
+
+h1 {
+    color: var(--fjg-azul-principal);
+    font-weight: 700;
 }
-/* Cor de fundo da barra lateral */
+
 [data-testid="stSidebar"] {
-    background-color: #f0f2f6;
+    background-color: var(--cor-fundo-elemento);
+    border-right: 1px solid #E0E0E0;
+}
+
+[data-testid="stSidebar"] * {
+    color: var(--cor-texto-principal);
+}
+
+[data-testid="stAlert"] * {
+    color: var(--cor-texto-principal) !important;
+}
+
+.stButton>button {
+    background-color: var(--fjg-azul-principal);
+    color: var(--cor-texto-claro);
+    border: 2px solid var(--fjg-azul-principal);
+    border-radius: 8px;
+    font-weight: 500;
+    transition: all 0.2s ease-in-out;
+}
+
+.stButton>button:hover {
+    background-color: var(--cor-texto-claro);
+    color: var(--fjg-azul-principal);
+    border: 2px solid var(--fjg-azul-principal);
+}
+
+a[data-testid="stLinkButton"] {
+    text-align: center;
+    padding: 0.5rem 1rem;
+    background-color: var(--fjg-azul-principal);
+    color: var(--cor-texto-claro);
+    border: 2px solid var(--fjg-azul-principal);
+    border-radius: 8px;
+    font-weight: 500;
+    text-decoration: none;
+    transition: all 0.2s ease-in-out;
+}
+
+a[data-testid="stLinkButton"]:hover {
+    background-color: var(--cor-texto-claro);
+    color: var(--fjg-azul-principal);
+    text-decoration: none;
+}
+
+
+[data-testid="stChatMessage"] {
+    border-radius: 12px;
+    padding: 1rem 1.2rem;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+    border: 1px solid transparent;
+}
+
+[data-testid="stChatMessage"]:has(span[data-testid="chat-avatar-assistant"]) {
+    background-color: var(--cor-fundo-elemento);
+    border-color: #E0E0E0;
+}
+
+[data-testid="stChatMessage"]:has(span[data-testid="chat-avatar-user"]) {
+    background-color: #D6E6F2; 
 }
