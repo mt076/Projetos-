@@ -1,6 +1,11 @@
 import subprocess
 import sys
 import os
+import docx2txt
+import streamlit as st
+from langchain_huggingface import HuggingFaceEmbeddings
+from llama_index.core import Settings, SimpleDirectoryReader, VectorStoreIndex
+from llama_index.llms.ollama import Ollama
 
 # Verificar e instalar dependências necessárias
 try:
