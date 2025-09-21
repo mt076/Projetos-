@@ -1,38 +1,8 @@
-import subprocess
-import sys
 import os
-import docx2txt
 import streamlit as st
 from langchain_huggingface import HuggingFaceEmbeddings
 from llama_index.core import Settings, SimpleDirectoryReader, VectorStoreIndex
 from llama_index.llms.ollama import Ollama
-
-# Verificar e instalar dependências necessárias
-try:
-    import docx2txt
-except ImportError:
-    subprocess.check_call([sys.executable, "-m", "pip", "install", "docx2txt"])
-    import docx2txt
-
-try:
-    import streamlit as st
-except ImportError:
-    subprocess.check_call([sys.executable, "-m", "pip", "install", "streamlit"])
-    import streamlit as st
-
-try:
-    from langchain_huggingface import HuggingFaceEmbeddings
-except ImportError:
-    subprocess.check_call([sys.executable, "-m", "pip", "install", "langchain-huggingface"])
-    from langchain_huggingface import HuggingFaceEmbeddings
-
-try:
-    from llama_index.llms.ollama import Ollama
-    from llama_index.core import VectorStoreIndex, SimpleDirectoryReader, Settings
-except ImportError:
-    subprocess.check_call([sys.executable, "-m", "pip", "install", "llama-index"])
-    from llama_index.llms.ollama import Ollama
-    from llama_index.core import VectorStoreIndex, SimpleDirectoryReader, Settings
 
 st.set_page_config(page_title="ChatBot para Estágiarios", page_icon="🤖💡", layout="centered")
 
@@ -53,12 +23,14 @@ except Exception as e:
     st.info("Certifique-se de que o Ollama está instalado e rodando. Execute: ollama pull llama3.1")
     llm = None
 
-# Inicialização do modelo de embeddings
+# Inicialização do modelo de embeddings com tratamento de erro
+embed_model = None
 try:
     embed_model = HuggingFaceEmbeddings(model_name="sentence-transformers/all-MiniLM-L6-v2")
 except Exception as e:
     st.error(f"Erro ao carregar embeddings: {e}")
     embed_model = None
+
 
 @st.cache_resource
 def cria_database_externo():
@@ -92,15 +64,18 @@ def cria_database_externo():
 
 banco_vetorial = cria_database_externo()
 
+# Inicializa o chat engine no estado da sessão
 if "chat_engine" not in st.session_state:
     if banco_vetorial is not None:
         st.session_state.chat_engine = banco_vetorial.as_chat_engine(chat_mode="condense_question", verbose=True)
     else:
         st.session_state.chat_engine = None
 
+# Captura a entrada do usuário
 if prompt := st.chat_input("Sua pergunta"):
     st.session_state.messages.append({"role": "user", "content": prompt})
 
+# Exibe o histórico de mensagens
 for message in st.session_state.messages:
     with st.chat_message(message["role"]):
         st.write(message["content"])
@@ -108,19 +83,21 @@ for message in st.session_state.messages:
 if st.session_state.messages[-1]["role"] != "assistant":
     if st.session_state.chat_engine is None:
         with st.chat_message("assistant"):
-            st.error("Chat engine não inicializado. Verifique se os documentos estão no diretório 'docs' e se todos os modelos foram carregados corretamente.")
+            response_text = "Chat engine não inicializado. Verifique se os documentos estão no diretório 'docs' e se todos os modelos foram carregados corretamente."
+            st.error(response_text)
+            st.session_state.messages.append({"role": "assistant", "content": response_text})
     else:
         with st.chat_message("assistant"):
             with st.spinner("Pensando..."):
                 try:
                     user_message = st.session_state.messages[-1]["content"]
-                    contextual_prompt = f"Você é um atendente de suporte especializado. O usuário fez a seguinte pergunta: '{user_message}'. Considere todos os documentos com perguntas e respostas disponíveis e forneça uma resposta detalhada e precisa, fazendo recomendações quando isso for pertinente. Seja pró-ativo."
-                    response = st.session_state.chat_engine.chat(contextual_prompt)
+                    response = st.session_state.chat_engine.chat(user_message)
                     st.write(response.response)
                     st.session_state.messages.append({"role": "assistant", "content": response.response})
                 except Exception as e:
-                    st.error(f"Erro ao gerar resposta: {e}")
-                    st.session_state.messages.append({"role": "assistant", "content": "Desculpe, ocorreu um erro ao processar sua solicitação."})
+                    error_message = f"Erro ao gerar resposta: {e}"
+                    st.error(error_message)
+                    st.session_state.messages.append({"role": "assistant", "content": error_message})
 
 
 # Verificar requisitos
