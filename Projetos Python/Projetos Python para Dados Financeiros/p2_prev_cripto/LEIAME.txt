@@ -1,0 +1,26 @@
+# Projeto 2 - Web App com Inteligência Artificial Para Análise e Previsão de Preços de Ações
+
+# Abra o terminal ou prompt de comando, navegue até a pasta com os arquivos e execute o comando abaixo para criar um ambiente virtual:
+
+conda create --name dsaengfinp2 python=3.12
+
+# Ative o ambiente:
+
+conda activate dsaengfinp2 (ou: source activate dsaengfinp2)
+
+# Instale o pip e as dependências:
+
+conda install pip
+pip install -r requirements.txt 
+
+# Execute os scripts com o comando:
+
+streamlit run app.py
+
+# Use os comandos abaixo para desativar o ambiente virtual e remover o ambiente (opcional):
+
+conda deactivate
+conda remove --name dsaengfinp2 --all
+
+
+
